@@ -16,7 +16,7 @@ div.title1{
 	background-color: #E9EAEB;
 	font: 25px Verdana, Sans-serif;
 	position: absolute;
-	top: 200px;
+	top: 150px;
 	margin-left: 650px;
 	margin-right: 300px;
 }
@@ -25,7 +25,7 @@ div.title2{
 	background-color: #E9EAEB;
 	font: 25px Verdana, Sans-serif;
 	position: absolute;
-	top: 600px;
+	top: 500px;
 	margin-left: 600px;
 	margin-right: 300px;
 }
@@ -35,7 +35,7 @@ div::first-letter{
 }
 
 div.quadro{
-	background-image:url(H:/web/img/planta-arquitetura.jpg);
+	background-image:url(img/planta-arquitetura.jpg);
 	background-position: top-center;
 	width: 1100px;
 	height: 100px;
@@ -62,7 +62,7 @@ div.quadro-interno{
 	font-size: 18px;
 	font: 16px Sans-serif;
 	position: absolute;
-	top: 300px;
+	top: 200px;
 	margin-left: 300px;
 	margin-right: 300px;
 }
@@ -73,7 +73,7 @@ div.quadro-interno2{
 	font-size: 18px;
 	font: 16px Sans-serif;
 	position: absolute;
-	top: 700px;
+	top: 550px;
 	margin-left: 300px;
 	margin-right: 300px;
 }
@@ -90,7 +90,7 @@ hr{
 
 
 div.imagem{
-	background-image: url(H:/web/img/índice.png);
+	background-image: url(img/índice.png);
 	width: 150px;
 	height: 150px;
 	padding:15px;
@@ -98,16 +98,16 @@ div.imagem{
     background-repeat:no-repeat;
 	background-size:contain;
 	position: absolute;
-	top: 575px;
-	margin-left: -275px;
+	top: 725px;
+	margin-left: -225px;
 }
 
 div.contato{
 	font-size: 25px;
 	font: sub 32px Verdana, Sans-serif;
 	position: absolute;
-	top: 600px;
-	margin-left: -75px;
+	top: 745px;
+	margin-left: 25px;
 	padding: 0.5;
 	opacity: 75%;
 	
